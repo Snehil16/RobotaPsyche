@@ -9,3 +9,9 @@
 
 # Topic Proposal 2
 - **Robots and Warfare. (Robotic Warfare)**
+
+## Resources and Links
+- https://www.brookings.edu/research/ai-and-future-warfare/
+- https://www.nytimes.com/2018/11/15/magazine/autonomous-robots-weapons.html
+- https://www.washingtonpost.com/magazine/2021/02/17/pentagon-funds-killer-robots-but-ethics-are-under-debate/
+- https://www.armytimes.com/news/your-army/2020/02/13/war-with-robots-how-battle-bots-will-define-the-future-of-ground-combat/
