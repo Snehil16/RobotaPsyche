@@ -19,9 +19,5 @@ It was a great experience of working with new concepts of forces and lifespan. I
 
 
 ## Video Link
-[![Watch the video](https://youtu.be/fQY5FO_oje8)]
 
-
-
-
-[![Watch the video]]({evidence1.png})({https://youtu.be/fQY5FO_oje8} "Ecosystem")
+[![Ecosystem]]({evidence1.png})({https://youtu.be/fQY5FO_oje8})
