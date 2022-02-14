@@ -24,4 +24,4 @@ It was a great experience of working with new concepts of forces and lifespan. I
 
 
 
-[![Alternate Text]({image-url})]({https://youtu.be/fQY5FO_oje8} "Ecosystem")
+[![]]({https://youtu.be/fQY5FO_oje8} "Ecosystem")
