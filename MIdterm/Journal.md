@@ -24,3 +24,12 @@
 4. Should there be a competition between the two types of preys?
 
 # 4th March
+1. I implemented the concept of separation as there is a competiton between the two preys
+2. If the size of one prey is bigger than the other prey then the bigger prey will try to consume similarly like the food. 
+3. So the smalled doesnt vanish but slowly finishes as the bigger prey eats it.
+
+
+# 7th March 
+1. The predator should follow the prey rather than having a weird movement pattern 
+2. The prey should try to run away from it and also try to move towards the food source will avoiding the predator. 
+3. Add text() function to give a more understanding UI. 
