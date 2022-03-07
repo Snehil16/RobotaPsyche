@@ -13,4 +13,14 @@
 # 2nd March
 
 1. Debugging errors
-2. 
+2. Rather than one food source being there constantly, I decided to generate the food on the screen once the creatures have consumed the food. 
+3. The food should not disappear once the creature (prey) comes near it or in contact. 
+4. Attraction force- between the preys and food source
+
+# 3rd March 
+1. The speed of the creatures should be depending on their hunger level
+2. The idea I was able to implement was that the size of the prey gets bigger as they eat the food. The size is inversely proportional to the speed of the prey.
+3. So larger the size less the speed and vice versa. 
+4. Should there be a competition between the two types of preys?
+
+# 4th March
