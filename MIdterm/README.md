@@ -48,6 +48,6 @@ The major difficulty was to determine which prey is near the predator so that th
 The further development in my ecosystem could be adding mutation or reproduction between red and blue prey. Also, it is very difficult but if the preys could lure the predator away from their food source would be effective. So if bigger preys who have less lifespan should sacrifice for the new preys. 
 
 ## Learning Outcomes 
-
+It was a great experience of working with new concepts of vectors and DNA characteristics. I know processing but never worked with these concepts and it was intriguing to learn and test them myself. One learns new things everyday and I made my own way debugging style to solve some problems in the functions. Although, I did not use all kinds or characteristics that were taught in the class. I did practice them separately apart from the project to learn new skills and concepts. 
 
 ## Video Link
