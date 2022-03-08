@@ -28,7 +28,7 @@ I have a new perspective towards the ecosystem. There might be preys in the food
 5. Lifespan decreases if the creature is not near the food source. 
 6. If the creature collides with the wall then its speed is decreased.
 
-## Code 
+## Code Snippets
 
 ## Evidence
 
