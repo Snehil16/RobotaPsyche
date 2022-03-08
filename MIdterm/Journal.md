@@ -31,5 +31,11 @@
 
 # 7th March 
 1. The predator should follow the prey rather than having a weird movement pattern 
-2. The prey should try to run away from it and also try to move towards the food source will avoiding the predator. 
-3. Add text() function to give a more understanding UI. 
+2. Add text() function to give a more understanding UI. 
+3. I added onscreen text to show number of blue and red preys. Also to show how may preys are consumed in total. 
+
+# 8th March 
+1. Commenting the entire code
+2. Debugging the final edits
+3. Recording the video 
+4. Updating all the README.md file
