@@ -34,10 +34,10 @@ I have a new perspective towards the ecosystem. There might be preys in the food
 
 ### Evidence 1 
 
-![](evidence1.png)
+![](Evidence1.png)
 
 ### Evidence 2
-![](evidence2.png)
+![](Evidence2.png)
 ## Difficulties 
 
 
