@@ -35,9 +35,11 @@ I have a new perspective towards the ecosystem. There might be preys in the food
 ### Evidence 1 
 
 ![](Evidence1.jpg)
+This is the initial stage when you start the ecosystem. Everytime you start the location of every object will be different. This is because as nothing in the ecosystem can be predictable. 
 
 ### Evidence 2
 ![](Evidence2.jpg)
+This image is important to show different operations that are working properly. At the bottom the stats shows that there are 17 of Blue preys left and only 3 of Red preys left in the ecosystem as of that moment or in that particular frame. So the number of preys left in total is 20. Also, the text shows that 20 have already died. In evidence 1 it was seen that there were 20 preys each making it 40 preys in total. So the count function of the ecosystem is working properly. 
 ## Difficulties 
 
 
