@@ -40,11 +40,12 @@ This is the initial stage when you start the ecosystem. Everytime you start the 
 ### Evidence 2
 ![](Evidence2.jpg)
 This image is important to show different operations that are working properly. At the bottom the stats shows that there are 17 of Blue preys left and only 3 of Red preys left in the ecosystem as of that moment or in that particular frame. So the number of preys left in total is 20. Also, the text shows that 20 have already died. In evidence 1 it was seen that there were 20 preys each making it 40 preys in total. So the count function of the ecosystem is working properly. 
-## Difficulties 
 
+## Difficulties 
+The major difficulty was to determine which prey is near the predator so that the predator can follow that prey. So the problem was to first figure out what directional velocity the predator should have. The thinking was that it should be similar to that of the prey but that did not work out. However when I figured out the directional vector which could be used as the velocity vector too, the problem was that the first prey which was near the prey was always followed and the predator ignored the other preys. So I started the loop and called the function every frame for both blue preys and red preys. The loop helped me to trace the movement of the predator. However, I was still not sure if the nearest prey or target prey is changing so I changed the colour of the nearest prey to purple to see if all the preys that come close to the predator their colour changes. Thats was a very effective and unique way to debug my problem. 
 
 ## Further Development 
-
+The further development in my ecosystem could be adding mutation or reproduction between red and blue prey. Also, it is very difficult but if the preys could lure the predator away from their food source would be effective. So if bigger preys who have less lifespan should sacrifice for the new preys. 
 
 ## Learning Outcomes 
 
