@@ -32,12 +32,18 @@ I have a new perspective towards the ecosystem. There might be preys in the food
 #### Snippet 1 
 ![](Code1.jpg)
 
+The first two for loops are for finding nearest distance between the blue or the red prey. As there are many objects of both blue and red preys there is a for loop to to update the nearest value everytime a prey is near the predator. Then after the loops there is a definite nearest value that is obtained. So from that location of the prey(for which the nearest distance was achieved) and the location of predator the distance is calculated and then the directional vector. This directional vector is used in the velocity function of the predator so that it will follow the prey which is near to it every frame. 
+
 #### Snippet 2
 ![](Code2.jpg)
+
+This code is about if the prey is within 10units from the food source then it consumes the food. Therefore, the radius of the food source is reduced to show how the food is finishing slowly by these creatures. Also these creature gain more mass after eating the food and their size also increases. When their size increases their speed is also decreased accordingly. To showcase the hunger level. If they arent hungry enough they will not be attracted by the food source like the smaller preys. 
 
 
 #### Snippet 3 
 ![](Code3.jpg)
+
+This is a very interesting feature where one prey eats the other prey when its size is bigger than the other. However, it does not finish it at once like the predator. It finishes the prey like how they eats its food. So the lifespan decreases as the bigger size prey eats the other smaller size prey. 
 
 ## Evidence
 
