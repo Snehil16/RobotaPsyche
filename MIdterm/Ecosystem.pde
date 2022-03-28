@@ -1,4 +1,3 @@
-import java.util.*;
 
 // An arraylist of objects
 //These objects are two kinds of preys
