@@ -5,11 +5,11 @@ Robots used in warfare are remote controlled or autonomous robots which are crea
 
 
 There are various ethical concerns when humans life are in hands of robots. Therefore, the questions that I raised throughout my presentation were:
-1- What is AI warfare in your opinion?
-2- Will future wars be fought with robots?
-3- Who would initiate the fights or wars?
-4- What happens when robots stops working properly during a war?
-5- Why do you think robots should be used in wars?
-6- Whether using autonomous weapons in war would make wars worse, or make wars less bad?
-7- Why is the use of robots in war unethical if soldiers are not in direct line of fire?
-8- If the AI thinks projected good to be achieved by war is proportional to the ultimate destruction from the violence, it is justified. What do you think?
+* What is AI warfare in your opinion?
+* Will future wars be fought with robots?
+* Who would initiate the fights or wars?
+* What happens when robots stops working properly during a war?
+* Why do you think robots should be used in wars?
+* Whether using autonomous weapons in war would make wars worse, or make wars less bad?
+* Why is the use of robots in war unethical if soldiers are not in direct line of fire?
+* If the AI thinks projected good to be achieved by war is proportional to the ultimate destruction from the violence, it is justified. What do you think?
